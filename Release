@@ -1,0 +1,15 @@
+Origin: Cephas Repository
+Label: Cephas
+Suite: stable
+Codename: stable
+Version: 1.0
+Architectures: amd64
+Components: main
+Description: APT repository for the Cephas tool
+Date: Fri, 15 Aug 2025 15:06:11 +0000
+MD5Sum:
+ 9aff3e0c25d79256d0727c83697f592e              525 Packages
+ 0158a6305f44439e16220f6da5007503              392 Packages.gz
+SHA256:
+ 2cd6ff8e0770b633d773e91be178a92087978aa2b57ba0ec2eef7a607c15d5de                              525 Packages
+ 9aaf7f30c9c671d5ac5be4dcdb09f00d72d518f293b3a7ca87499a3053300b1e                              392 Packages.gz

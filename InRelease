@@ -1,0 +1,34 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: Cephas Repository
+Label: Cephas
+Suite: stable
+Codename: stable
+Version: 1.0
+Architectures: amd64
+Components: main
+Description: APT repository for the Cephas tool
+Date: Fri, 15 Aug 2025 15:06:11 +0000
+MD5Sum:
+ 9aff3e0c25d79256d0727c83697f592e              525 Packages
+ 0158a6305f44439e16220f6da5007503              392 Packages.gz
+SHA256:
+ 2cd6ff8e0770b633d773e91be178a92087978aa2b57ba0ec2eef7a607c15d5de                              525 Packages
+ 9aaf7f30c9c671d5ac5be4dcdb09f00d72d518f293b3a7ca87499a3053300b1e                              392 Packages.gz
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEE2WB2w1GOu7hwUUEdeS6W94nkgCUFAmifTO4ACgkQeS6W94nk
+gCUB1xAAmX3Gnwg606vBnJdWk9du8PyAlwIhLPOwy/3xFRMhA64y4CRy43fxnsPj
+NVhJejTwknlFf9ZEgCFfwObTKU35t+ojge2fh4qQ0UfdXUtWOw8zjXNswD7FXjX3
+FwTk/hsBDWUQffjOdmJmI91NLiH4SIm85u4MH3mfj6NuPMXn2RkE4scXgnGhQcyP
+UkD6Nb6u63EGOgiXTUilVPlNzUAxq6AdJ7+wh1vxI8AzfstRaYZaTfDDdmjKkjTa
+RJUmXfv5vVsl9k5rUEjikqKHgdDIxDBqzMkQGV3kJv0zKX9e8pZozFhKm4Fo4in6
+5daj0gnnG1oeu4Jg4ILbJdTWSm7nh/4mo3qtGX+utx0FJrXQ2Qidc10mRHTjMb22
+gxHO94iLakF6Ti9b/OfcLzeivXbZz6tu17pDX0Sas4kh8gOx7wB5rCNgJ47bTUOZ
+/pplxLptVJKvJe+X7DRl15Iphh7pfXoC4KpRFtlctfhTuSe6HHmebodTX7cl4YnA
+WGjkaEKstM4aI1rP5c+8W+IE/p9P0bI3M5ckFasNKe5I8rw7XAUeK7IPiG+ruy6T
+NAgvX1r7qdTnssa8p8x3c3Bp6c4xPNMAWxUjtl+GNSOGJgmQnVyIJ44zxQQalABs
+7ARCjOOlRltP7MO2INhAKWVbGtEGyFOZ/GE0YEVYFoNxYd7c7iw=
+=2n5A
+-----END PGP SIGNATURE-----
