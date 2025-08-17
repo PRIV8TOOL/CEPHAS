@@ -37,9 +37,3 @@ Once installed, you can run the tool directly from your terminal:
 ```bash
 cephas
 ```
-
----
-
-## 📄 License
-
-This project is licensed under the **MIT License**.
