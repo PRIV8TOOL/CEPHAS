@@ -4,7 +4,7 @@ Please follow the instructions that match your situation.
 
 ---
 
-### 1. For New Users (First-Time Installation)
+### 1. Brand New VPS Server (First-Time Installation)
 
 If you have never installed **Cephas** on your system before, you need to add our secure repository and install the tool.
 
@@ -18,9 +18,9 @@ curl -sS https://priv8tool.github.io/CEPHAS/public.key | sudo gpg --dearmor -o /
 
 ---
 
-### 2. For Existing Users (Upgrading)
+### 2. For Existing Vps (Upgrading)
 
-If you already have a version of **Cephas** installed, you do not need to re-add the repository.  
+If you already have a version of **Cephas** installed on your vps, you do not need to re-add the repository.  
 To upgrade to the latest version, simply run:
 
 ```bash
