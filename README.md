@@ -1,11 +1,4 @@
-# Cephas Installer
-
-Official **APT repository** for the **Cephas command-line tool**.  
-This repository helps you easily install, configure, and update the Cephas application on Debian-based systems like **Ubuntu**.
-
----
-
-## 🚀 Installation & Upgrading
+# 🚀 Installation & Upgrading
 
 Please follow the instructions that match your situation.
 
