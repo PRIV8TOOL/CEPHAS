@@ -1,12 +1,12 @@
 Package: cephas
-Version: 1.0-1
+Version: 1.1-1
 Architecture: all
 Maintainer: Cephas Team <contact@cephas.com>
-Filename: ./cephas_1.0-1_all.deb
-Size: 72318
-MD5sum: 2871c7382bef13730c1131223c0f228a
-SHA1: b3f39b123a35a1a4236974999ea1cdcf3c269faa
-SHA256: 4c3f0192eea639638ca8bd87375fe520bc39941b7a4d80744296a9766475bcec
+Filename: ./cephas_1.1-1_all.deb
+Size: 73744
+MD5sum: 44a455f498dad9d53f2c0c7b78950b94
+SHA1: 225eb098fbce42a977fb13e2fb80c1a9c18c9d61
+SHA256: da9136b90556c61a4f0c809d364cf91182e6c5cc29f9ca2848e77e8489a70fbe
 Description: A tool to easily manage the CEPHAS application.
  This tool will help you install, configure, and update
  the CEPHAS application with simple commands. It handles
