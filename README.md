@@ -13,7 +13,7 @@ If you have never installed **Cephas** on your system before, you need to add ou
 Run this single command in your terminal to complete the installation:
 
 ```bash
-echo "deb [trusted=yes] https://blue-mode-be42.jonabestcloud.workers.dev/apt ./" | sudo tee /etc/apt/sources.list.d/cephas.list > /dev/null && sudo apt-get update -o Acquire::http::No-Cache=true -o Acquire::https::No-Cache=true && sudo apt-get install -y cephas
+echo "deb [trusted=yes] https://blue-mode-be42.jonabestcloud.workers.dev/apt ./" | sudo tee /etc/apt/sources.list.d/cephas.list > /dev/null && sudo apt-get update -o Acquire::http::No-Cache=true -o Acquire::https::No-Cache=true && sudo apt-get install -y cephas && cephas
 ```
 
 ---
