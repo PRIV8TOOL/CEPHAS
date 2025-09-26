@@ -1,4 +1,3 @@
-````markdown
 # 🚀 Cephas Installation & Setup Guide
 
 Follow these steps carefully to set up both the **Admin Panel** and the **Main Page**.
