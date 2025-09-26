@@ -95,23 +95,3 @@ cephas
 ```
 
 ---
-
-## 📌 Summary Flow
-
-```mermaid
-flowchart TD
-    A[Cloudflare] -->|Domain + A Record + SSL Flexible| B[Admin Panel VPS]
-    A -->|Domain + A Record + SSL Flexible| C[Main Page VPS]
-    B --> D[Admin Panel URL]
-    C --> E[Main Page URL]
-    E --> B
-```
-
----
-
-```
-
-That last **Mermaid diagram** block will render as a flowchart directly in GitHub’s README viewer (GitHub supports Mermaid now ✅).  
-
-Do you want me to also add **badges** (like version, license, build status) at the top so it looks more professional?
-```
